@@ -6,6 +6,8 @@ In this project we are going to build a machine learning(ML) project to figure o
 
 There are three types of promotional offers that can influence purchasing decisions of customers: buy-one-get-one (BOGO), discount, and informational. In a BOGO offer, a user needs to spend a certain amount to get a reward equal to that threshold amount. In a discount, a user gains a reward equal to a fraction of the amount spent. In an informational offer, there is no reward, but neither is there a requisite amount that the user is expected to spend.
 
+Related blog post can be found [here](https://medium.com/@kavasogluzehra/finding-effective-offers-for-starbucks-rewards-customers-715270bcc4ef).
+
 ## Project Scope
 
 A supervised learning model is built in this project to identify if an offer is going to be completed by a customer or not. To achieve this, user actions need to be understood.  
